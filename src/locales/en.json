@@ -1,0 +1,20 @@
+{
+  "title": "Excel → Delimited String",
+  "paste_label": "Paste column from Excel:",
+  "result_label": "Result:",
+  "convert": "Convert",
+  "clear": "Clear",
+  "clear_all": "Clear All Fields",
+  "copy": "Copy",
+  "copied": "Copied {{field}}",
+  "placeholder_input": "Each value on a new line",
+  "placeholder_output": "The result string will appear here",
+  "select_delimiter": "Select delimiter",
+  "delimiters": {
+    "comma": "Comma (,)",
+    "semicolon": "Semicolon (;)",
+    "pipe": "Vertical bar (|)",
+    "space": "Space"
+  },
+  "footer": "excelconverter"
+}

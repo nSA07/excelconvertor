@@ -1,0 +1,20 @@
+{
+  "title": "Excel → Рядок із роздільником",
+  "paste_label": "Вставте стовпець з Excel:",
+  "result_label": "Результат:",
+  "convert": "Перетворити",
+  "clear": "Очистити",
+  "clear_all": "Очистити всі поля",
+  "copy": "Копіювати",
+  "copied": "Скопійовано {{field}}",
+  "placeholder_input": "Кожне значення з нового рядка",
+  "placeholder_output": "Тут з’явиться рядок із роздільниками",
+  "select_delimiter": "Оберіть роздільник",
+  "delimiters": {
+    "comma": "Кома (,)",
+    "semicolon": "Крапка з комою (;)",
+    "pipe": "Вертикальна риска (|)",
+    "space": "Пробіл"
+  },
+  "footer": "excelconverter"
+}
