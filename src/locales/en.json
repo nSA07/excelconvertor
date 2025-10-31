@@ -1,5 +1,9 @@
 {
-  "title": "Excel → Delimited String",
+  "title": "Choose the conversion order",
+  "tabs": {
+    "col2row": "Column → Row",
+    "row2col": "Row → Column"
+  },
   "paste_label": "Paste column from Excel:",
   "result_label": "Result:",
   "convert": "Convert",
